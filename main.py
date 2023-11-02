@@ -21,4 +21,3 @@ text = f"Dear {professor_name} I am writing this email"
 
 
 
-
